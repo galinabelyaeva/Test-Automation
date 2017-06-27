@@ -1,8 +1,12 @@
+=begin
 
 Then /^Go to Amazon homepage$/ do
   driver = $driver
   driver.get "http://www.amazon.com/"
 end
+=end
+
+
 
 =begin
 LOCATORS: xpath, id, css, link, name and DOM.

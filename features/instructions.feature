@@ -86,9 +86,4 @@
   #  2. Add 2 identical item to the cart for category Clearance
   #  3. Add 1 item from the category Age and 1 item from the category Outdoor Play
   #  4. Remove item from the Cart
-
-
-    #App Mimo
-    #Lesson 2 test cases DONE!
-    #Lesson 3 test cases DONE!
-    #Read on lessons 4-5 DONE!
+    
